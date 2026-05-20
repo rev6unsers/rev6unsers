@@ -1,7 +1,5 @@
 # 안녕하세요 👋
 
-프론트엔드에 관심있는 개발자입니다.
-
 ## 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -11,7 +9,7 @@
 - 🎊 [모바일 청첩장](https://rev6unsers.github.io/wedding) - GitHub Pages로 만든 모바일 청첩장
 
 ## 📫 Contact
-- Email: your@email.com
+- Email: rev6unsers@email.com
 
 ---
 
