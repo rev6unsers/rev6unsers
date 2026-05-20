@@ -1,16 +1,18 @@
-## Hi there 👋
+# 안녕하세요 👋
 
-<!--
-**rev6unsers/rev6unsers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+프론트엔드에 관심있는 개발자입니다.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🎊 [모바일 청첩장](https://rev6unsers.github.io/wedding) - GitHub Pages로 만든 모바일 청첩장
+
+## 📫 Contact
+- Email: your@email.com
+
+---
+
+> *"좋은 코드는 그 자체로 최고의 문서다."*
