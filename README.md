@@ -10,7 +10,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## 📌 Projects
-- 🎊 [모바일 청첩장](https://rev6unsers.github.io/wedding) - GitHub Pages로 만든 모바일 청첩장
+- 🎊 [모바일 청첩장](https://rev6unsers.github.io) - GitHub Pages로 만든 모바일 청첩장
 
 ## 📫 Contact
 - Email: rev6unsers@email.com
